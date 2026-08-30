@@ -40,6 +40,12 @@ credit-card-fraud-detection/
 ├── dataset/
 │   └── dataset.csv                              # Raw transaction data (via Kaggle)
 │
+├── images/
+│   ├── feature value vs impact on fraud log odds.png
+│   ├── fraud rate (%) by time.png
+│   ├── pearson correlation.png
+│   └── top predictors.png
+│
 ├── notebook/
 │   ├── 01_importing_dataset.py                  # KaggleHub download script
 │   ├── 02_exploratory_data_analysis.ipynb        # Deep-dive EDA & feature insights
@@ -61,7 +67,7 @@ credit-card-fraud-detection/
  └────────┬─────────────┘
           ▼
  ┌──────────────────────┐
- │  2. EDA & Profiling   │  Class imbalance, distributions, correlations, risk heatmaps
+ │  2. EDA & Profiling  │  Class imbalance, distributions, correlations, risk heatmaps
  └────────┬─────────────┘
           ▼
  ┌──────────────────────┐
