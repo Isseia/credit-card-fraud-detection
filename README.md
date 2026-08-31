@@ -204,6 +204,8 @@ Four operational cases examined with waterfall plots:
 | **Case 4** | False Negative (Missed Fraud) | Identify blind spots for model improvement |
 
 ---
+## 🚀 Live Demo
+You can view the live interactive app here: [Deploy on Streamlit](https://isseia-credit-card-fraud-detection-app-o4zkf6.streamlit.app/)
 
 ## Business Recommendations
 
